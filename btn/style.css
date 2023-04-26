@@ -1,0 +1,13 @@
+.btnblu{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.btn button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(129, 11, 11, 0.247);
+    background-color: rgba(112, 165, 42, 0.507);
+    font-family: cursive;
+}
